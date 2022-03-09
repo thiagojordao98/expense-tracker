@@ -23,8 +23,6 @@ Neste projeto foram usadas essas tecnologias:
 
 - ✔️ [TypeScript](https://www.typescriptlang.org/)
 
-- ✔️ [React-Switch](https://www.npmjs.com/package/react-switch)
-
 - ✔️ [ReactHooks](https://pt-br.reactjs.org/)
 
 <br>
